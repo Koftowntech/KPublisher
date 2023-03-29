@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">African Warriors</h1>
 <br> 
-<h2 align="left">This is a story from Africa about five warriors from different parts of africa with diverse backgrounds and techniques caming together to defend their kingdom against an impending invasion.</h2>
+<h2 align="left">This is a story from Africa about five warriors from different parts of africa with diverse backgrounds and techniques coming together to defend their kingdom against an impending invasion.</h2>
 <br> 
 <h1>
 	Zulu warriors were known for their formidable skills and techniques in battle. They were expertly trained in various combat styles and were skilled in using a variety of weapons. Here are some of the techniques and skills that Zulu warriors were known for:
